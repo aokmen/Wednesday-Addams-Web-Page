@@ -1,6 +1,9 @@
 # Wednesday-Addams-Web-Page
-# Wednesday's Portfolio
 
+<h3>visit: https://aokmen.github.io/Wednesday-Addams-Web-Page</h3>
+<img alt="alt_text" src="./wednesday.gif"/>
+
+## Description:
 This is Wednesday's personal portfolio website showcasing her projects and information as a full-stack web developer.
 
 ## Table of Contents
